@@ -36,6 +36,9 @@ This talk is scheduled on 01 June 2022
 **How to implement code enhanced with emojis**
 - https://towardsdatascience.com/why-im-coding-with-emojis-in-jupyter-notebooks-23f08585ed3d
 
+**When are emojis pragmatic? A use case in marketing**
+- https://www.thecreativemomentum.com/blog/best-practices-for-using-emojis-in-marketing
+
 **An AI application of emojis**
 - https://aijourn.com/emojional-intelligence-%F0%9F%98%B2-how-ai-can-predict-your-next-emoji/
 
