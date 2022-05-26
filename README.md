@@ -28,7 +28,7 @@ Anika Arevalo⚛️ (Jr. AI Data Ops, BeCode in Ghent)
 ## Timeline 🗓
 This talk is scheduled on 01 June 2022 
 
-## Citations
+## Citations ℹ️
 **Background literature on and database of emojis**
 - https://en.wikipedia.org/wiki/Emoji
 - https://emojis.wiki
