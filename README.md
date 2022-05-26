@@ -29,4 +29,4 @@ Anika Arevalo⚛️ (Jr. AI Data Ops, BeCode in Ghent)
 This talk is scheduled on 01 June 2022 
 
 ## Personal situation 👩🏻‍🏫 👨‍🏫
-As a part of our training in AI Data Operations at BeCode (Ghent, Belgium), learners of data science such as myself are required to give a brief oral presentation, on occasion, about a topic we deem is AI-relevant. As individuals continually learning the ropes of this massive domain in data science, I have chosen topics of my tech talk (including this latest one) that are significant to me on a personal level too. I hope to share this enjoyment with others. Cheers! 🥂
+As a part of our training in AI Data Operations at BeCode (Ghent, Belgium), learners of data science such as myself are required to give a brief oral presentation, on occasion, about a topic we deem is AI-relevant. As individuals continually learning the ropes of this massive domain in data science, I have chosen topics of my tech talk (including this latest one) that are significant to me on a personal level too. I hope to share my own interest with others, too, in a way. Cheers! 🥂
