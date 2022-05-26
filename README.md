@@ -1,4 +1,4 @@
-# Tech talk 4: Emojis 😂, 😃, 🧘🏻‍♂️, 🌍, 🌦️, 🍞, 🚗, 📞, 🎉, ❤️, 🍆, 🏁
+# Tech talk 4: Emojis 😂 😃 🧘🏻‍♂️ 🌍 🌦️ 🍞 🚗 📞 🎉 ❤️ 🍆 🏁
 
 
 ## Description ✍️ 
@@ -10,13 +10,13 @@ This tech talk consists of the following:
 - What's next for emojis: as cultural phenomenon and as AI application 🔮
 
 ## Installation 🔌
-For this no-frills yet fun demo, I'm running **python** (version 3.9) code🐍👩‍💻  accentuated with computer emojis using **jupyter ipynb🔟.**. 
+For this no-frills yet fun demo, I'm running **python** (version 3.9) code🐍👩‍💻  accentuated with computer emojis using **jupyter ipynb**.🔟 
 
 ## Usage 💻 
 Spruce up your python code with emojis when you are:
-- Introducing code to a children or novices to computer programming language 🧒🏻, 🧒🏼, 🧒🏽, 🧒🏾, 🧒🏿 , 🧒
-- Presenting your python project to clients without a solid programming background 
-- Making your data visuals more engaging 📈, 📉, 📊
+- Introducing code to a children or novices to computer programming language 🧒🏻 🧒🏼 🧒🏽 🧒🏾 🧒🏿 🧒
+- Presenting your python project to clients without a solid programming background 👮👷👸💂‍♂️
+- Making your data visuals more engaging 📈 📉 📊 🤩
 
 
 ## Visuals 🖼️
