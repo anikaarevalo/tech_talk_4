@@ -39,7 +39,7 @@ This talk is scheduled on 01 June 2022
 **An AI application of emojis**
 - https://aijourn.com/emojional-intelligence-%F0%9F%98%B2-how-ai-can-predict-your-next-emoji/
 
-**Emoji in contemporary life and as a trendsetter**
+**Emoji as trendsetters in contemporary life**
 - https://unicode.org/emoji/proposals.html
 
 ## Personal situation 👩🏻‍🏫 👨‍🏫
