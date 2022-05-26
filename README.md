@@ -1,2 +1,32 @@
-# tech_talk_4
-Emojis⚛️
+# Tech_talk_4: Emojis😂, 😃, 🧘🏻‍♂️, 🌍, 🌦️, 🍞, 🚗, 📞, 🎉, ❤️, 🍆, 🏁
+
+
+## Description ✍️ 
+Emojis are a phenomenon to reckon with. An acquired taste for some while nuisance to others, I make an argument in this tech talk in defence of computer language in pictures. I argue that ***emojis are not simply low prestige electronic media worthy of serious technical study.***. I fact, there are certain contexts where emojis aren't only acceptable--they are also most suitable. 
+
+This tech talk consists of the following:
+- A brief background on emojis 📖
+- How emojis can be integrated with python code given specific practical situations 🤔; and   
+- What's next for emojis: as cultural phenomenon and as AI application 🔮
+
+## Installation 🔌
+For this no-frills yet fun demo, I'm running **python** (version 3.9) code🐍👩‍💻  accentuated with computer emojis using **jupyter ipynb🔟.**. 
+
+## Usage 💻 
+Spruce up your python code with emojis when you are:
+- Introducing code to a children or novices to computer programming language 🧒🏻, 🧒🏼, 🧒🏽, 🧒🏾, 🧒🏿 , 🧒
+- Presenting your python project to clients without a solid programming background 
+- Making your data visuals more engaging 📈, 📉, 📊
+
+
+## Visuals 🖼️
+
+
+## Contributor
+Anika Arevalo⚛️ (Jr. AI Data Ops, BeCode in Ghent)
+
+## Timeline 🗓
+This talk is scheduled on 01 June 2022 
+
+## Personal situation 👩🏻‍🏫 👨‍🏫
+As a part of our training in AI Data Operations at BeCode (Ghent, Belgium), learners of data science such as myself are required to give a brief oral presentation, on occasion, about a topic we deem is AI-relevant. As individuals continually learning the ropes of this massive domain in data science, I have chosen topics of my tech talk (including this latest one) that are significant to me on a personal level too. I hope to share this enjoyment with others. Cheers! 🥂
