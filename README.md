@@ -1,4 +1,4 @@
-# Tech talk 4: Emojis😂, 😃, 🧘🏻‍♂️, 🌍, 🌦️, 🍞, 🚗, 📞, 🎉, ❤️, 🍆, 🏁
+# Tech talk 4: Emojis 😂, 😃, 🧘🏻‍♂️, 🌍, 🌦️, 🍞, 🚗, 📞, 🎉, ❤️, 🍆, 🏁
 
 
 ## Description ✍️ 
