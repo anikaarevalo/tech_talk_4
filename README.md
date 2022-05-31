@@ -25,6 +25,16 @@ Spruce up your python code with emojis when you are:
 ## Visuals 🖼️
 
 
+I. Japan🇯🇵: birthplace of the first emojis 
+
+
+II. Emojis enhance Python code ✨🐍👩‍💻
+
+
+III. When AI meets emojis 🤖🤝😊
+
+
+
 ## Contributor
 Anika Arevalo⚛️ (Jr. AI Data Ops, BeCode in Ghent)
 
