@@ -5,9 +5,9 @@
 Emojis are a phenomenon to reckon with. An acquired taste for some while nuisance to others, I make an argument in this tech talk in defence of computer language in pictures. I argue that ***emojis are not simply low prestige electronic media worthy of serious technical study***. On the contrary, there are certain contexts where emojis aren't only acceptable--they are also quite suitable. 
 
 This tech talk consists of the following:
-- A brief background on emojis 📖
-- How emojis can be integrated with python code given specific practical situations 🤔; and   
-- What's next for emojis: as cultural phenomenon and as AI application 🔮
+I. A brief background on emojis 📖
+II. How emojis can be integrated with python code given specific practical situations 🤔; and   
+III. What's next for emojis: as cultural phenomena and as AI application 🔮
 
 ## Installation 🔌
 For this no-frills yet fun demo, I'm running **python** (version 3.9) code🐍👩‍💻  accentuated with computer emojis using **jupyter ipynb**.🔟 
