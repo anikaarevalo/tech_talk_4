@@ -27,6 +27,8 @@ Spruce up your python code with emojis when you are:
 
 I. Japan🇯🇵: birthplace of the first emojis 
 
+<img width="668" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/tech_talk_4/blob/37a275a70ef4507ec58b004676e6476a91a1049e/assets/emojipedia-softbank-docomo-apple-1997-1999-2018.jpeg">
+
 
 II. Emojis enhance Python code ✨🐍👩‍💻
 
