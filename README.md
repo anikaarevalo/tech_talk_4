@@ -25,18 +25,19 @@ Spruce up your python code with emojis when you are:
 ## Visuals 🖼️
 
 
-I. Japan🇯🇵: birthplace of the first emojis 
+**I. Japan🇯🇵: birthplace of the first emojis** 
 
 <img width="668" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/tech_talk_4/blob/37a275a70ef4507ec58b004676e6476a91a1049e/assets/emojipedia-softbank-docomo-apple-1997-1999-2018.jpeg">
 
 
-II. Emojis enhance Python code ✨🐍👩‍💻
+**II. Emojis enhance Python code** ✨🐍👩‍💻
 
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/tech_talk_4/blob/ad3807132f73f02f9d111601519de8fff670f38c/assets/emoji_in_code.png">
 
 
-III. When AI meets emojis 🤖🤝😊
-***The result of a sentiment analysis carried out by Louis de Viron on the emojis that were used the most in COVID-related tweets in Belgium 
+**III. When AI meets emojis** 🤖🤝😊
+
+A sentiment analysis carried out by Louis de Viron on the emojis that were used the most in COVID-related tweets in Belgium🇧🇪 
 
 <img width="668" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/tech_talk_4/blob/ad3807132f73f02f9d111601519de8fff670f38c/assets/emojis_belgium_twitter_1stlockdown.png">
 
