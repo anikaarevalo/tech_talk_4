@@ -5,8 +5,11 @@
 Emojis are a phenomenon to reckon with. An acquired taste for some while nuisance to others, I make an argument in this tech talk in defence of computer language in pictures. I argue that ***emojis are not simply low prestige electronic media worthy of serious technical study***. On the contrary, there are certain contexts where emojis aren't only acceptable--they are also quite suitable. 
 
 This tech talk consists of the following:
+
 I. A brief background on emojis 📖
+
 II. How emojis can be integrated with python code given specific practical situations 🤔; and   
+
 III. What's next for emojis: as cultural phenomena and as AI application 🔮
 
 ## Installation 🔌
