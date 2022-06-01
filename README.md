@@ -20,6 +20,7 @@ Spruce up your python code with emojis when you are:
 - Introducing code to a children or novices to computer programming language 🧒🏻 🧒🏼 🧒🏽 🧒🏾 🧒🏿 🧒
 - Presenting your python project to clients without a solid programming background 👮👷👸💂‍♂️
 - Making your data visuals more engaging 📈 📉 📊 🤩
+- Text pre-processing in NLP 🤖 
 
 
 ## Visuals 🖼️
