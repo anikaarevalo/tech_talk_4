@@ -16,11 +16,11 @@ III. What's next for emojis: as cultural phenomena and as AI application 🔮
 For this no-frills yet fun demo, I'm running **python** (version 3.9) code🐍👩‍💻  accentuated with computer emojis using **jupyter ipynb**.🔟 
 
 ## Usage 💻 
-Spruce up your python code with emojis when you are:
+Emojis are relevant ✨in Python code 🐍👩‍💻 when you are:
 - Introducing code to a children or novices to computer programming language 🧒🏻 🧒🏼 🧒🏽 🧒🏾 🧒🏿 🧒
 - Presenting your python project to clients without a solid programming background 👮👷👸💂‍♂️
 - Making your data visuals more engaging 📈 📉 📊 🤩
-- Text pre-processing in NLP 🤖 
+- Text pre-processing in NLP 🤖 🪄
 
 
 ## Visuals 🖼️
